@@ -1,6 +1,7 @@
 Scrapes court decisions from the Court of Appeals of Virginia Published
 Opinions webpage at <http://www.courts.state.va.us/txtcap.htm> and
-inserts them into a database.
+inserts them into a database. This is in a VERY early state, and is all
+but guaranteed not to work upon the first attempt.
 
 Requires HTML Purifier and MDB2, though the HTML Purifier requirement
 could be circumvented pretty easily.
